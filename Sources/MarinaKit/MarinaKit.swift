@@ -5,6 +5,7 @@ public struct verdadeView: View {
     
     public var body: some View {
         Text("Bonito é besta")
+        Text("tipo, mesmo")
     }
 }
 
